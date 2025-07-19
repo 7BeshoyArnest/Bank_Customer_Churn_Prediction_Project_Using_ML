@@ -42,7 +42,7 @@ Estimated Salary
 
 Exited (target: 1 if the customer left, 0 otherwise)
 
-Dataset Source: https://www.kaggle.com/datasets/shubhendra7/customer-churn-prediction
+Dataset Source: https://www.kaggle.com/code/nasirislamsujan/bank-customer-churn-prediction/input
 
 📊 Exploratory Data Analysis (EDA)
 Checked for missing values and outliers
